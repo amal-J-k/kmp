@@ -36,5 +36,7 @@ fun GreetingView(text: String) {
 fun DefaultPreview() {
     MyApplicationTheme {
         GreetingView("Hello, Android!")
+
     }
+
 }
